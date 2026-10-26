@@ -1,6 +1,6 @@
 #1번 답안
 
-...
+
 #include "raylib.h"
 #include <math.h>
 #include <stdbool.h>
