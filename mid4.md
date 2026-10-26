@@ -1,3 +1,6 @@
+<img width="1137" height="344" alt="image" src="https://github.com/user-attachments/assets/962ee589-31a8-4632-a80c-8cac075bf528" />
+
+4번 답
 
 #include <stdio.h>
 
